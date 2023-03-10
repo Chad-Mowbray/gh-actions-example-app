@@ -92,3 +92,4 @@ Run `./run-compose-prod.sh "django-insecure-9#4p^u(w3g*72&_34-4yxesg#hqektaofnfp
 8. Exit your ec2 terminal
 9. SSH into your ec2 instance and run `./run-compose-prod.sh "<SECRET_KEY>" False <NEW_VERSION>`.
 10. Go to the IP address in your browser (ensure it didn't default to https and you're on the http site).
+hi chad
