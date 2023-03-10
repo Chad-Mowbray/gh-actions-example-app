@@ -8,7 +8,7 @@ function App() {
     <div className="App">
 
       <HashRouter>
-      <h1>Notional Nav bar</h1>
+      <h1>Notional Nav barzz</h1>
       <Link to="/all-wines">List Wines</Link>
       <br></br>
       <Link to="/create">Create Wine</Link>
